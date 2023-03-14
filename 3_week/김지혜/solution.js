@@ -27,3 +27,4 @@ function solution(id_list, report, k) {
     
       return obj; //{신고 당한자 : 신고한자}
     };    
+
