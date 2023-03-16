@@ -10,7 +10,7 @@
 |3|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|[풀이](https://github.com/BardsTale/cote/blob/main/3_week/)|커링 패턴, JS 함수의 arguments와 rest 파라미터|
 |4|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|[풀이](https://github.com/BardsTale/cote/blob/main/4_week/)|정규표현식과 정규표현식의 브라우저 호환성(사파리 lookbehind 이슈)|
 |5|[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|[풀이](https://github.com/BardsTale/cote/blob/main/5_week/)|[Decorator 디자인 패턴](https://jeonghwan-kim.github.io/javascript-decorator-pattern/)의 원리와 [클로저로 구현 방법](https://github.com/BardsTale/cote/blob/main/5_week/decoratorClosure.js), Iterable한 변수와 Iterator의 불변 참조|
-|6|[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|[풀이](https://github.com/BardsTale/cote/blob/main/6_week/)|stack과 queue 구조의 개발 기법, js에서 shift와 splice의 내부 작동 원리|
+|6|[크레인<br>인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|[풀이](https://github.com/BardsTale/cote/blob/main/6_week/)|stack과 queue 구조의 개발 기법, js에서 shift와 splice의 내부 작동 원리|
 |7|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|[풀이](https://github.com/BardsTale/cote/blob/main/7_week/)|[Java](https://sabarada.tistory.com/138)와 [JS](https://woong-jae.com/javascript/220412-sort-implementation)의 배열 소팅 메소드의 내부 정렬 알고리즘과 시간 복잡도(빅O)의 종류|
 |8|[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681?language=javascript)|[풀이](https://github.com/BardsTale/cote/blob/main/8_week/)|비트 연산자의 실무 사용법, [Bitwise Cheat Sheet](https://union.io/images/repo/20170531-00--895036.png)|
-|9|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=javascript)|[풀이](https://github.com/BardsTale/cote/blob/main/9_week/)||
+|9|[개인정보 수집<br>유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=javascript)|[풀이](https://github.com/BardsTale/cote/blob/main/9_week/)||
