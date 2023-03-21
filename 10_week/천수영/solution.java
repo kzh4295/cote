@@ -1,3 +1,5 @@
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class Score {
 
@@ -51,25 +53,21 @@ public class Score {
 class Solution {
     public int solution(String dartResult) {
         
-      Score score = new Score();
-      
-      int length = dartResult.length();
-      for (int i = 0; i < length; i++) {
-        char ch = dartResult.charAt(i);
-        if(ch=='S') ;
-        else if(ch=='D') score.doubleValue();
-        else if(ch=='T') score.tripleValue();
-        else if(ch=='#') score.minusValue();
-        else if(ch=='*') score.multiplyTotalAndValue();
-        else if(dartResult.charAt(i+1)=='0'){
-          score.appendValue(10);
-          i++;
-        }
-        else score.appendValue(Integer.parseInt(String.valueOf(ch)));
-      }
-      score.calFinish();
-      
-      return (int)Math.round(score.getTotal());
+		Score score = new Score();
+		Pattern pattern = Pattern.compile("(10)|[a-zA-Z0-9#/*]");
+		Matcher matcher = pattern.matcher(dartResult);
+		while(matcher.find()){
+			String str = matcher.group();
+			if(str.equals("S")) ;
+			else if(str.equals("D")) score.doubleValue();
+			else if(str.equals("T")) score.tripleValue();
+			else if(str.equals("#")) score.minusValue();
+			else if(str.equals("*")) score.multiplyTotalAndValue();
+			else score.appendValue(Integer.parseInt(str));
+		}
+		score.calFinish();
+        
+        return (int)Math.round(score.getTotal());
         
     }
 }
