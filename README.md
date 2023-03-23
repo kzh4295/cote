@@ -13,4 +13,5 @@
 |6|[크레인<br>인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|[풀이](https://github.com/BardsTale/cote/blob/main/6_week/)|stack과 queue 구조의 개발 기법, js에서 shift와 splice의 내부 작동 원리|
 |7|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|[풀이](https://github.com/BardsTale/cote/blob/main/7_week/)|[Java](https://sabarada.tistory.com/138)와 [JS](https://woong-jae.com/javascript/220412-sort-implementation)의 배열 소팅 메소드의 내부 정렬 알고리즘과 시간 복잡도(빅O)의 종류|
 |8|[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681?language=javascript)|[풀이](https://github.com/BardsTale/cote/blob/main/8_week/)|비트 연산자의 실무 사용법, [Bitwise Cheat Sheet](https://union.io/images/repo/20170531-00--895036.png)|
-|9|[개인정보 수집<br>유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370?language=javascript)|[풀이](https://github.com/BardsTale/cote/blob/main/9_week/)|JS prototype을 활용한 date 객체 사용법<br>Java calendar 객체와 date 객체의 차이.<br>deprecated란?|
+|9|[개인정보 수집<br>유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|[풀이](https://github.com/BardsTale/cote/blob/main/9_week/)|JS prototype을 활용한 date 객체 사용법<br>Java calendar 객체와 date 객체의 차이.<br>deprecated란?|
+|10|[다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|[풀이](https://github.com/BardsTale/cote/blob/main/10_week/)||
