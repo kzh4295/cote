@@ -15,3 +15,4 @@
 |8|[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681?language=javascript)|[풀이](https://github.com/BardsTale/cote/blob/main/8_week/)|비트 연산자의 실무 사용법, [Bitwise Cheat Sheet](https://union.io/images/repo/20170531-00--895036.png)|
 |9|[개인정보 수집<br>유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|[풀이](https://github.com/BardsTale/cote/blob/main/9_week/)|JS prototype을 활용한 date 객체 사용법<br>Java calendar 객체와 date 객체의 차이.<br>deprecated란?|
 |10|[다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|[풀이](https://github.com/BardsTale/cote/blob/main/10_week/)|고차함수(HOF)의 정의와 Java와 JS에서의 사용법.|
+|11|[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[풀이](https://github.com/BardsTale/cote/blob/main/11_week/)|LinkedHashMap과 TreeMap의 차이, R-B트리, LRU와 정렬 알고리즘|
