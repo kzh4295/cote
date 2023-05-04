@@ -16,4 +16,4 @@
 |9|[개인정보 수집<br>유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|[풀이](https://github.com/BardsTale/cote/blob/main/9_week/)|JS prototype을 활용한 date 객체 사용법<br>Java calendar 객체와 date 객체의 차이.<br>deprecated란?|
 |10|[다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|[풀이](https://github.com/BardsTale/cote/blob/main/10_week/)|고차함수(HOF)의 정의와 Java와 JS에서의 사용법.|
 |11|[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[풀이](https://github.com/BardsTale/cote/blob/main/11_week/)|LinkedHashMap과 TreeMap의 차이, R-B트리, LRU와 정렬 알고리즘|
-|12|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[풀이](https://github.com/BardsTale/cote/blob/main/12_week/)||
+|12|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[풀이](https://github.com/BardsTale/cote/blob/main/12_week/)|Map vs Object, Object의 취약점을 이용한 객체주입공격|
