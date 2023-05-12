@@ -12,15 +12,12 @@ function solution(str1, str2) {
         return acc;
     },[]);
 
-     
     // 두 다중집합의 교집합 만들기.
     let mergeMultisetArray = multiset1.concat(multiset2); // 다중집합을 단순 머지한 배열.
-    let intersectionArray = multiset2.reduce((acc,ele,idx,thisArr)=>{
+    let intersectionArray = multiset2.reduce((acc,ele)=>{
         if(multiset1.indexOf(ele) !== -1) acc.push(multiset1.splice(multiset1.indexOf(ele),1));
         return acc;
     },[]);
-    
-
 
     /* 
     * 다중집합은 있지만 교집합이 없는 경우 0, 
