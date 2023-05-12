@@ -17,3 +17,4 @@
 |10|[다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|[풀이](https://github.com/BardsTale/cote/blob/main/10_week/)|고차함수(HOF)의 정의와 Java와 JS에서의 사용법.|
 |11|[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[풀이](https://github.com/BardsTale/cote/blob/main/11_week/)|LinkedHashMap과 TreeMap의 차이, R-B트리, LRU와 정렬 알고리즘|
 |12|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[풀이](https://github.com/BardsTale/cote/blob/main/12_week/)|Map vs Object, Object의 취약점을 이용한 객체주입공격|
+|13|[뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|[풀이](https://github.com/BardsTale/cote/blob/main/13_week/)||
