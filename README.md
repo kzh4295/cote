@@ -17,4 +17,4 @@
 |10|[다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|[풀이](https://github.com/BardsTale/cote/blob/main/10_week/)|고차함수(HOF)의 정의와 Java와 JS에서의 사용법.|
 |11|[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[풀이](https://github.com/BardsTale/cote/blob/main/11_week/)|LinkedHashMap과 TreeMap의 차이, R-B트리, LRU와 정렬 알고리즘|
 |12|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[풀이](https://github.com/BardsTale/cote/blob/main/12_week/)|Map vs Object, Object의 취약점을 이용한 객체주입공격|
-|13|[뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|[풀이](https://github.com/BardsTale/cote/blob/main/13_week/)||
+|13|[뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|[풀이](https://github.com/BardsTale/cote/blob/main/13_week/)|**Reflective 프로그래밍 기법**<br>1. Java에서 Dynamic Proxy와 Reflection API를 활용한 런타임 방면 동적 프로그래밍 기법.<br>2. JS에서 Proxy와 reflect 객체를 활용한 Vue Reactivity 객체 구현.<br>3. Proxy 객체의 trap에서 reflect의 receiver의 사용 유무에 따른 사이드 이펙트. |
