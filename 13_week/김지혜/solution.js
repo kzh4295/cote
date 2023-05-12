@@ -1,3 +1,11 @@
+// 소=> 대문자 통일, 문자 제외한 나머지는 제거
+// 요소 2개씩 넣은 배열 생성
+// 합집합 구하기 => 두배열의 합 - 교집합
+// 교집합 구하기 =>countObj를 이용하여 2개이상이면 교집합으로 처리
+// result = 교집합.length/합집합.length * 65536
+
+// =============================================
+
 function solution(str1, str2) {
     // solution 함수의 return될 변수
     let answer = 0;
@@ -37,6 +45,8 @@ function solution(str1, str2) {
         acc[ele] = (acc[ele] || 0) + 1;
         return acc;
     },{})
+    console.log(countObj)
+    
     union = Object.keys(countObj)
 
     intersection = Object.entries(countObj).map((ele)=>{
