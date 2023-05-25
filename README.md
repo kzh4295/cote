@@ -18,3 +18,4 @@
 |11|[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[풀이](https://github.com/BardsTale/cote/blob/main/11_week/)|LinkedHashMap과 TreeMap의 차이, R-B트리, LRU와 정렬 알고리즘|
 |12|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[풀이](https://github.com/BardsTale/cote/blob/main/12_week/)|Map vs Object, Object의 취약점을 이용한 객체주입공격|
 |13|[뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|[풀이](https://github.com/BardsTale/cote/blob/main/13_week/)|**Reflective 프로그래밍 기법**<br>1. Java에서 Dynamic Proxy와 Reflection API를 활용한 런타임 방면 동적 프로그래밍 기법.<br>2. JS에서 Proxy와 reflect 객체를 활용한 Vue Reactivity 객체 구현.<br>3. Proxy 객체의 trap에서 reflect의 receiver의 사용 유무에 따른 사이드 이펙트. |
+|14|[k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)|[풀이](https://github.com/BardsTale/cote/blob/main/14_week/)|소수를 구하는 알고리즘(밀러-라빈 소수 판별,에라토스테네스의 체),<br>JS에서 재귀 함수의 용도,<br>Java에서 스트림 객체의 사용 시 작동 특징 두 가지(단축평가, 지연평가)|
