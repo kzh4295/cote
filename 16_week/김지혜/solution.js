@@ -22,3 +22,4 @@ function solution(n, t, m, p) {
   answer = tubeValue.slice(0, t).toUpperCase();
   return answer
 }
+
