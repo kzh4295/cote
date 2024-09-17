@@ -13,3 +13,4 @@ function solution(n, t, m, p) {
     answer = answer.slice(0, t).toUpperCase();
   return answer;
 }
+
